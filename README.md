@@ -4,3 +4,5 @@ This Powe BI dashboard was created for a Call Centre Manager to reflect all rele
 Data Source
 The dataset was gotten from Forage courtesy PWC Switzerland.
 https://www.theforage.com/modules/a87GpgE6tiku7q3gu/uJRb9cGfxd38kToRC?ref=MiRCRSHmbcW3e6xyR
+
+![image](https://user-images.githubusercontent.com/102392833/196333918-e6959e0a-3385-4362-b37e-23fec75d56db.png)
